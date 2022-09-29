@@ -1,1 +1,1 @@
-# Java implementation of SOLIC concepts
+# Java implementation of SOLID concepts
